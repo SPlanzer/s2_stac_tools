@@ -1,0 +1,30 @@
+# Dependencies as required for quickview
+
+# General Dependencies
+numpy==1.21
+matplotlib==3.8.0
+
+# Geospatial and Mapping Libraries
+geopandas==0.14.0
+rioxarray==0.15.0
+stackstac==0.5.0
+xarray==2023.9.0 
+xarray-spatial==0.3.7
+
+# Planetary Computer API
+planetary-computer==1.0.0
+
+# IPyLeaflet Mapping Library
+ipyleaflet==0.17.4
+
+# GeoJSON Parsing
+geojson==3.0.1
+
+# STAC Catalog Client
+pystac-client==0.7.5
+
+# Dask Distributed Computing
+dask==2023.10.0
+distributed==2023.10
+
+
